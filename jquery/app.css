@@ -1,0 +1,21 @@
+#red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  transition: all 1s ease-in-out;
+}
+
+#container {
+  width: 100vw;
+  height: 50vh;
+}
+
+.pet {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: white;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid black;
+}

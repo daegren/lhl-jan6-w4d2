@@ -1,0 +1,7 @@
+#red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  transition: all 1s ease-in-out;
+}
